@@ -28,8 +28,8 @@
 
 ## ⚙️ Instalasi
 1. **Persiapan Clone**
-   -    buka aplikasi server (xampp / laragon / mampp /docker)
-   -    masuk ke folder projek ( htdocs / www / dll)
+   -    buka aplikasi server (laragon)
+   -    masuk ke folder projek (www/perpustakaan/index.php)
 
 2. **Clone Repositori**
    ```bash
